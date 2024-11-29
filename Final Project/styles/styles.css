@@ -1,0 +1,57 @@
+/* CSS Reset */
+body {
+    font-family: 'Roboto', sans-serif, 'Times New Roman', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0px;
+    /* Reset heading and paragraph margin */
+    padding: 0px;
+    /* Reset heading and paragraph padding */
+}
+
+a {
+    color: inherit;
+    /* Remove formatting for links */
+    text-decoration: none;
+    /* Remove underline from links */
+}
+
+/* CSS Edits */
+
+/* Home Page */
+.navbar {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+
+    position: fixed;
+    background-color: darkgrey;
+    border-bottom: 3px solid blue;
+    font-weight: bold;
+    font-size: 1.5rem;
+    width: 100%;
+    /* Sets width of navbar to reach far right of screen which allows navbar position to be fixed */
+}
+.navbar .navbutton a {
+    border-radius: 10px;
+    padding: 10px;
+    border: 2px solid slategray;
+    color: darkblue;
+    background-color: skyblue;
+}
+.navbar .navbutton a:hover {
+    border-radius: 10px;
+    padding: 10px;
+    border: 2px solid blue;
+    color: lightblue;
+    background-color: grey;
+}
