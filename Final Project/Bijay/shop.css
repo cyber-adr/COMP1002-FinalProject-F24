@@ -1,3 +1,4 @@
+/* Shop Section */
 #shop {
     padding: 2em;
     background-color: #f9f9f9;
@@ -6,8 +7,8 @@
 
 .car-list {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 1em;
+    grid-template-columns: repeat(3, 1fr);  /* 3 items per row */
+    gap: 2em;  /* Space between items */
     justify-items: center;
     padding: 2em;
 }
@@ -17,10 +18,10 @@
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 1em;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
-    width: 90%;
-    max-width: 300px;
+    width: 100%;  /* Ensures full width inside the grid cell */
+    max-width: 300px;  /* Fixed max width for the car items */
 }
 
 .car-item img {
@@ -32,20 +33,39 @@
 
 .car-item h3 {
     margin: 0.5em 0;
-    font-size: 1.2em;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
 }
 
 .get-button {
-    padding: 0.5em 1em;
-    background-color: #007bff;
+    padding: 0.75em 1.5em;
+    background: linear-gradient(135deg, #007bff, #00aaff);
     color: white;
     border: none;
     border-radius: 5px;
     font-size: 1em;
     cursor: pointer;
-    transition: background-color 0.3s;
+    transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
 .get-button:hover {
     background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .car-list {
+        grid-template-columns: repeat(2, 1fr);  /* 2 items per row on smaller screens */
+    }
+    .car-item {
+        max-width: 90%; /* Ensure items scale to smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .car-list {
+        grid-template-columns: 1fr; /* 1 item per row on very small screens */
+    }
 }
