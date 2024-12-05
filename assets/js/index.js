@@ -127,6 +127,10 @@ function updateSlider(index) { // function with parameter of selected index to u
 }
 // Specifications Table
 function updateSpecsTable(index) { // function with parameter of selected index to update the specifications table
+    if (!document.querySelector(".specifications-table")) {
+        console.log("Specifications table not found!"); // For HTML webpages with no specifications table 
+        return;
+    }
     for (let i = 0; i < specs.length; i++) {
         specs[i][1] = specsData[index][i]; // Set specification information for each spec title for current car or index
     }
