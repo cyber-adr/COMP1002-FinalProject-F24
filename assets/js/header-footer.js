@@ -8,19 +8,19 @@ headerElement.innerHTML = `
                 <a href="../index.html"><img src="../assets/images/JDM-Classics-Logo.png" height="75" alt="Logo"></a>
             </div>
             <div class="navbutton">
-                <a href="/html/about-us.html">About</a>
+                <a href="../html/about-us.html">About</a>
             </div>
             <div class="navbutton">
                 <a href="#parts">OEM Parts</a>
             </div>
             <div class="navbutton">
-                <a href="/html/contact-us.html">Contact Us</a>
+                <a href="../html/contact-us.html">Contact Us</a>
             </div>
             <div class="navbutton">
-                <a href="/html/products-page.html">Shop</a>
+                <a href="../html/products-page.html">Shop</a>
             </div>
             <div class="navbutton">
-                <a href="/html/order-form.html">Order</a>
+                <a href="../html/order-form.html">Order</a>
             </div>
         </nav>
 `;
