@@ -14,10 +14,10 @@ const slides = [
             <p>The sixth-generation Skyline (Type R30), was launched in August 1981. For the advertising campaign, the actor Paul Newman - a familiar face in racing circles - was hired, and the catchphrase "New Love Skyline" attracted much attention. The 6-cylinder and 4-cylinder models used bodies with the same nose length. A 5-door hatchback was also launched, while the estate wagon was discontinued.</p>
         </div>
         <div class="car-item">
-            <img class="car-img" src="../assets/images/cars/Skyline-HT-Turbo-2000GT-ES-1981-KHR31.jpg" height="500" alt="Skyline H/T Turbo 2000GT ES 1981 KHR31">
+            <img class="car-img" src="assets/images/cars/Skyline-HT-Turbo-2000GT-ES-1981-KHR31.jpg" height="500" alt="Skyline H/T Turbo 2000GT ES 1981 KHR31">
         </div>
         <div class="logo-item">
-            <img class="car-logo" src="../assets/images/car-logo/Nissan-Logo.png" height="100" alt="Nissan Logo">
+            <img class="car-logo" src="assets/images/car-logo/Nissan-Logo.png" height="100" alt="Nissan Logo">
         </div>
     </div>`,
     `
@@ -27,10 +27,10 @@ const slides = [
             <p>The seventh-generation Skyline (R31) was launched in August 1985 and this model is well remembered as being the first to reintroduce the 6-cylinder DOHC engine (discontinued with the C110). In May 1986, the coupe GTS appeared, and in August 1987, after a minor change, the coupe GTS-R (RB20DET-R: 210PS engine) - based on Group A race specifications - was sold as a limited edition (800 units).</p>
         </div>
         <div class="car-item">
-            <img class="car-img" src="../assets/images/cars/Skyline-2000GTS-R-1987-KHR31.jpg" height="500" alt="Skyline 2000GTS-R 1987 KHR31">
+            <img class="car-img" src="assets/images/cars/Skyline-2000GTS-R-1987-KHR31.jpg" height="500" alt="Skyline 2000GTS-R 1987 KHR31">
         </div>
         <div class="logo-item">
-            <img class="car-logo" src="../assets/images/car-logo/Nissan-Logo.png" height="100" alt="Nissan Logo">
+            <img class="car-logo" src="assets/images/car-logo/Nissan-Logo.png" height="100" alt="Nissan Logo">
         </div>
     </div>`,
     `
@@ -40,10 +40,10 @@ const slides = [
             <p>The eighth generation Skyline R32 was rolled out in May 1989. Three months later, the “GT-R” was brought back after the 16-year absence. The engine was a specially designed “RB26DETT” of 2.6-liter inline 6-cylinder DOHC twin turbo and generated maximum power of 280ps. The drive system was called “ATTESA E-TS” that was the electronically controlled torque split 4WD which transmitted the best torque to all the wheels. It even had the 4-wheel multilink suspension. These equipment realized one of the best performances all over the world as a sedan-based sport car. This GT-R has a record of amazing 29 victories and no defeat for 4 seasons at Japan Touring Car Championship from 1990 through 1993. It also received a high reputation at overseas races like Spa-Francorchamps24 Hours.</p>
         </div>
         <div class="car-item">
-            <img class="car-img" src="../assets/images/cars/Skyline-GT-R-1989-BNR32.jpg" height="500" alt="Skyline GT-R 1989 BNR32">
+            <img class="car-img" src="assets/images/cars/Skyline-GT-R-1989-BNR32.jpg" height="500" alt="Skyline GT-R 1989 BNR32">
         </div>
         <div class="logo-item">
-            <img class="car-logo" src="../assets/images/car-logo/Nissan-Logo.png" height="100" alt="Nissan Logo">
+            <img class="car-logo" src="assets/images/car-logo/Nissan-Logo.png" height="100" alt="Nissan Logo">
         </div>
     </div>
     `,
@@ -54,10 +54,10 @@ const slides = [
             <p>180SX was a hatchback coupe that shared the platform with Silvia S13. 240SX/200SX were released in North America and Europe as 1989 year model prior to the release in Japan in 1989. It realized the aerodynamic performance of Cd 0.3 due to the flowing body with retractable headlamps. It had CA18DET engine of 1800cc, 4-valve DOHC with turbo for "Silvia K's," multilink rear suspension and HICAS-II, which enabled handling stability, traveling performance and comfortability to be balanced in a high level.</p>
         </div>
         <div class="car-item">
-            <img class="car-img" src="../assets/images/cars/180SX-Type-II.jpg" height="500" alt="180SX Type II 1990 RS13">
+            <img class="car-img" src="assets/images/cars/180SX-Type-II.jpg" height="500" alt="180SX Type II 1990 RS13">
         </div>
         <div class="logo-item">
-            <img class="car-logo" src="../assets/images/car-logo/Nissan-Logo.png" height="100" alt="Nissan Logo">
+            <img class="car-logo" src="assets/images/car-logo/Nissan-Logo.png" height="100" alt="Nissan Logo">
         </div>
     </div>
     `,
@@ -68,10 +68,10 @@ const slides = [
             <p>The fourth-generation (Z32) was launched exactly 20 years after the first-generation Fairlady Z in July 1989. The convertible was officially released in August 1992, after its exhibition at the 1991 Tokyo Motor Show. The car is based on the two-seater 300ZX and features an independent trunk lid. The engine was a non-turbo VG30DE (230PS).</p>
         </div>
         <div class="car-item">
-            <img class="car-img" src="../assets/images/cars/Fairlady-Z-Convertible-1992-HZ32.jpg" height="500" alt="Fairlady Z Convertible 1992 HZ32">
+            <img class="car-img" src="assets/images/cars/Fairlady-Z-Convertible-1992-HZ32.jpg" height="500" alt="Fairlady Z Convertible 1992 HZ32">
         </div>
         <div class="logo-item">
-            <img class="car-logo" src="../assets/images/car-logo/Nissan-Logo.png" height="100" alt="Nissan Logo">
+            <img class="car-logo" src="assets/images/car-logo/Nissan-Logo.png" height="100" alt="Nissan Logo">
         </div>
     </div>
     `,
@@ -82,10 +82,10 @@ const slides = [
             <p>The fourth generation Fairlady Z (Z32) was released in 1989, twenty years after the release of the first generation. The styling with refined beauty and sharpness of Z such as curvy wide & low proportion, extremely slanted headlamps and short overhang representing high dynamic performance became a popular topic.</p>
         </div>
         <div class="car-item">
-            <img class="car-img" src="../assets/images/cars/300ZX-T-Top-1992-Z32.jpg" height="500" alt="Fairlady Z Convertible 1992 HZ32">
+            <img class="car-img" src="assets/images/cars/300ZX-T-Top-1992-Z32.jpg" height="500" alt="Fairlady Z Convertible 1992 HZ32">
         </div>
         <div class="logo-item">
-            <img class="car-logo" src="../assets/images/car-logo/Nissan-Logo.png" height="100" alt="Nissan Logo">
+            <img class="car-logo" src="assets/images/car-logo/Nissan-Logo.png" height="100" alt="Nissan Logo">
         </div>
     </div>
     `
